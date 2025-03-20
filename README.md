@@ -55,9 +55,9 @@ The course culminates in a term project where students demo their implementation
 
 ### **Week 5: Game Logic Implementation**
 - **Topics Covered**:
-  - Implementing game-specific logic for Guess the Number, Battleship, and Word Chain.
+  - Implementing game-specific logic for Guess the Number, <strike>Battleship</strike>, and Word Chain.
     - *Guess the Number*: Validating guesses and providing feedback (higher/lower).
-    - *Battleship*: Representing grids and tracking hits/misses.
+    - <strike>*Battleship*: Representing grids and tracking hits/misses.</strike>
     - *Word Chain*: Validating words and ensuring they follow the rules.
 - **Hands-On Activity**:
   - Start implementing one of the three games using the protocols taught earlier.
